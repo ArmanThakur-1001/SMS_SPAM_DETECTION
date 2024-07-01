@@ -1,6 +1,3 @@
-Certainly! Here is the revised version with comments for a GitHub-friendly format:
-
-```markdown
 # SMS Spam Detection Using Python
 
 ## Overview
