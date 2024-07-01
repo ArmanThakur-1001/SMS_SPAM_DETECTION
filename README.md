@@ -51,16 +51,16 @@ print(f"Prediction: {result['class']} (Probability: {result['probability']})")
 ```
 
 ## Dataset
-The dataset used for training and evaluation is located in the `data` directory. It includes labeled examples of spam and ham messages. You can replace it with your dataset if needed.
+The dataset used for training and evaluation is located in directory. It includes labeled examples of spam and ham messages. You can replace it with your dataset if needed.
 
 ## Model Training
-Details about the model architecture, hyperparameters, and the training process can be found in the `train_model.ipynb` Jupyter notebook.
+Train the Model.
 
 ## Evaluation
-The model's performance is evaluated on a separate test set. Evaluation metrics such as accuracy, precision, recall, and F1 score are reported in the `evaluation_results.txt` file.
+The model's performance is evaluated on a separate test set. Evaluation metrics such as accuracy, precision, recall, and F1 score are calculated.
 
 ## Results
-A summary of the model's performance and any notable findings are documented in the `results.md` file.
+A summary of the model's performance are shown. 
 
 ## Dependencies
 This project requires:
@@ -69,12 +69,5 @@ This project requires:
 - pandas
 - numpy
 - matplotlib
-
-## Contributing
-If you would like to contribute to this project, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-```
 
 Feel free to ask if you need any further modifications!
