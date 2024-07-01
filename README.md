@@ -20,8 +20,8 @@ To set up and use this project, follow these steps:
 1. Clone the repository:
    ```bash
    # Clone the repository to your local machine
-   git clone https://github.com/your-username/sms-spam-detection.git
-   cd sms-spam-detection
+   git clone https://github.com/ArmanThakur-1001/SMS_SPAM_DETECTION.git
+   cd SMS_SPAM_DETECTION
    ```
 
 2. Install the required dependencies:
