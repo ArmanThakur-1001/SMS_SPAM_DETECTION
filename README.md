@@ -69,5 +69,3 @@ This project requires:
 - pandas
 - numpy
 - matplotlib
-
-Feel free to ask if you need any further modifications!
